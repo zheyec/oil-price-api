@@ -1,4 +1,4 @@
-# oil-prices
+# oil-prices-api
 
 This is an oil price look-up API. It was originally made for a chatbot product that was a real-world business project.
 
